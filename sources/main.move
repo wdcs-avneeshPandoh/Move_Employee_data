@@ -56,6 +56,8 @@ module 0x1::Company {
         return isEven
     }
 
+// test code...
+
     #[test]
 
     fun test_create_employee(){
